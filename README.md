@@ -6,9 +6,10 @@ This Dopamine Delay System is a comprehensive digital wellness application desig
 
 The app is built around the concept of "dopamine delay" - instead of immediately accessing potentially addictive websites, users must complete meaningful challenges that promote mindfulness, learning, and well-being. This creates a friction barrier that encourages more intentional internet usage.
 
-️ ##Application Architecture
+️ **Application Architecture
 
 Multi-Stage User Journey:
+
 **Landing Page - Animated particle background with minimalist design**
 
 **Options Page - Choose between accessing a feedback form or the main system**
