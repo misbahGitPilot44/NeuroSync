@@ -39,73 +39,75 @@ Multi-Stage User Journey:
 
 #### 😁 2. Motivation Challenge
 
-Purpose: Boost motivation and earn points
+- Purpose: Boost motivation and earn points
 
-Format: 3 motivational videos (3 minutes each)
+- Format: 3 motivational videos (3 minutes each)
 
-Point System: 2 points per completed video
+- Point System: 2 points per completed video
 
-Features:
+##### Features:
 
-Anti-skip protection (must watch full duration)
+- Anti-skip protection (must watch full duration)
 
-Progress tracking across videos
+- Progress tracking across videos
 
-Points popup celebrations
+- Points popup celebrations
 
-Video completion verification
+- Video completion verification
 
 #### 😊 3. Wellness Challenge
 
-Purpose: Physical and mental wellness breaks
+- Purpose: Physical and mental wellness breaks
 
-Format: 5 timed wellness exercises
+- Format: 5 timed wellness exercises
 
-Exercises: Deep breathing, eye rest, neck stretches, mindfulness, posture check
+- Exercises: Deep breathing, eye rest, neck stretches, mindfulness, posture check
 
-Point System: 10 points for completing all exercises
+- Point System: 10 points for completing all exercises
 
-Features:
+##### Features:
 
-Guided instructions for each exercise
+- Guided instructions for each exercise
 
-Countdown timers
+- Countdown timers
 
-Skip options (but reduces points)
+- Skip options (but reduces points)
 
 #### 📚 4. Knowledge Quiz
 
-Purpose: Educational content about dopamine and digital wellness
+- Purpose: Educational content about dopamine and digital wellness
 
-Format: 10 multiple-choice questions
+- Format: 10 multiple-choice questions
 
-Point System: +1 correct, -1 wrong, 0 not attempted
+- Point System: +1 correct, -1 wrong, 0 not attempted
 
-Features:
+##### Features:
 
-30-second timer per question
+- 30-second timer per question
 
-Immediate feedback with explanations
+- Immediate feedback with explanations
 
-Humorous memes after each answer
+- Humorous memes after each answer
 
-Progress dots showing performance
+- Progress dots showing performance
 
 #### 🧠 5. Brain Teaser Challenge
 
-Purpose: Cognitive stimulation through riddles
+- Purpose: Cognitive stimulation through riddles
 
-Format: 10 riddles with multiple-choice answers
+- Format: 10 riddles with multiple-choice answers
 
-Point System: +2 points per correct answer
+- Point System: +2 points per correct answer
 
-Features:
+##### Features:
 
-30-second timer per riddle
+- 30-second timer per riddle
 
-Detailed explanations after each answer
+- Detailed explanations after each answer
 
-Auto-advance between riddles
+- Auto-advance between riddles
+
+---
 
 Performance tracking
 --- 
