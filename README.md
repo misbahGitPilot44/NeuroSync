@@ -1,16 +1,14 @@
 # 🔄 NeuroSync: Delay the Dopamine, Hack Your Habits 
 
-What is this application?
-
 This Dopamine Delay System is a comprehensive digital wellness application designed to help users manage their screen time and build healthier digital habits. It combines behavioral psychology principles with gamification to create a system that delays access to distracting websites while providing alternative productive activities.
 
-Core Concept
+## Core Concept
 
 The app is built around the concept of "dopamine delay" - instead of immediately accessing potentially addictive websites, users must complete meaningful challenges that promote mindfulness, learning, and well-being. This creates a friction barrier that encourages more intentional internet usage.
 
-️ Application Architecture
+️ ## Application Architecture
 
-Multi-Stage User Journey:
+### Multi-Stage User Journey:
 
 Landing Page - Animated particle background with minimalist design
 
