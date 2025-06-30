@@ -343,7 +343,7 @@ The app is built around the concept of "dopamine delay" - instead of immediately
 
 ---
 
-️## **Technical Implementation**
+## **Technical Implementation**
 
 ### Frontend Framework
 
