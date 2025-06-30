@@ -117,34 +117,34 @@ Multi-Stage User Journey:
 
 ---
 
-Performance Tracking
+## Performance Tracking
 --- 
 
-## 📊 Points & Analytics System
+### 📊 Points & Analytics System
 
-Points Dashboard
+#### Points Dashboard:
 
-Daily point tracking with localStorage persistence
+- Daily point tracking with localStorage persistence
 
-Weekly performance charts with 7-day history
+- Weekly performance charts with 7-day history
 
-Performance levels: Excellent (6+), Good (4-5), Fair (2-3), Needs Improvement (0-1)
+- Performance levels: Excellent (6+), Good (4-5), Fair (2-3), Needs Improvement (0-1)
 
-Statistics: Total points, weekly average, active days
+**Statistics**: Total points, weekly average, active days
 
-Maximum daily points: 46 points possible
+- Maximum daily points: 46 points possible
 
-Point Sources:
+#### Point Sources:
 
-Motivation videos: 6 points max (3 videos × 2 points)
+- Motivation videos: 6 points max (3 videos × 2 points)
 
-Wellness exercises: 10 points max
+- Wellness exercises: 10 points max
 
-Knowledge quiz: 10 points max (if all correct)
+- Knowledge quiz: 10 points max (if all correct)
 
-Brain teasers: 20 points max (10 riddles × 2 points)
+- Brain teasers: 20 points max (10 riddles × 2 points)
 
-🎯 Goal Management System
+#### 🎯 Goal Management System
 
 Goal Creation & Tracking
 
