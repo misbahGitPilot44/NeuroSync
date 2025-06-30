@@ -21,21 +21,21 @@ Multi-Stage User Journey:
 
 #### ✍️ 1. Writing Challenge (Gateway Challenge)
 
-Purpose: Cognitive engagement test to access blocked websites
+- Purpose: Cognitive engagement test to access blocked websites
 
-Format: 5 questions requiring 50+ words each
+- Format: 5 questions requiring 50+ words each
 
-Time Limit: 60 seconds per question
+- Time Limit: 60 seconds per question
 
-Mechanics:
+Mechanics: 
 
-Random prompts from a curated list
+- Random prompts from a curated list
 
-Real-time word counting
+- Real-time word counting
 
-Progress tracking through questions
+- Progress tracking through questions
 
-Must complete all 5 to gain site access
+- Must complete all 5 to gain site access
 
 #### 😁 2. Motivation Challenge
 
