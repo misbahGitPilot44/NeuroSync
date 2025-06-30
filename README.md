@@ -37,7 +37,7 @@ Progress tracking through questions
 
 Must complete all 5 to gain site access
 
-2. Motivation Challenge
+#### 2. Motivation Challenge
 
 Purpose: Boost motivation and earn points
 
@@ -55,7 +55,7 @@ Points popup celebrations
 
 Video completion verification
 
-3. Wellness Challenge
+#### 3. Wellness Challenge
 
 Purpose: Physical and mental wellness breaks
 
@@ -73,7 +73,7 @@ Countdown timers
 
 Skip options (but reduces points)
 
-4. Knowledge Quiz
+#### 4. Knowledge Quiz
 
 Purpose: Educational content about dopamine and digital wellness
 
@@ -91,7 +91,7 @@ Humorous memes after each answer
 
 Progress dots showing performance
 
-5. Brain Teaser Challenge
+#### 5. Brain Teaser Challenge
 
 Purpose: Cognitive stimulation through riddles
 
