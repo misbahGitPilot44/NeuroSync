@@ -9,15 +9,11 @@ The app is built around the concept of "dopamine delay" - instead of immediately
 ️ ## Application Architecture
 
 Multi-Stage User Journey:
+**Landing Page - Animated particle background with minimalist design**
+**Options Page - Choose between accessing a feedback form or the main system**
+**Main System - Core dopamine delay functionality with multiple challenges**
 
-Landing Page - Animated particle background with minimalist design
-
-Options Page - Choose between accessing a feedback form or the main system
-
-Main System - Core dopamine delay functionality with multiple challenges
-
-Complete Feature Breakdown
-
+## Complete Feature Breakdown
 🎮 Challenge System (5 Different Challenges)
 
 1. Writing Challenge (Gateway Challenge)
