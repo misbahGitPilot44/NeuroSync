@@ -145,9 +145,9 @@ Multi-Stage User Journey:
 
 ## 🎯 Goal Management System
 
-- Goal Creation & Tracking
+### Goal Creation & Tracking
 
-- **Categories**: Personal, Career, Health, Relationships, Learning
+- Categories: Personal, Career, Health, Relationships, Learning
 
 - Progress tracking: 0-100% with visual progress bars
 
@@ -159,7 +159,7 @@ Multi-Stage User Journey:
 
 ---
 
-#### Progress Dashboard
+### Progress Dashboard
 
 - Goal status overview: Total, completed, in-progress, not started
 
@@ -169,238 +169,244 @@ Multi-Stage User Journey:
 
 - Categorized goal display
 
-⚙️ Settings & Configuration
+## ⚙️ Settings & Configuration
 
-6-Tab Settings Panel:
+### 6-Tab Settings Panel:
 
-General Settings
+1. **General Settings**
 
-Enable/disable dopamine delay
+2. Enable/disable dopamine delay
 
-Minimum delay (5-60 seconds)
+3. Minimum delay (5-60 seconds)
 
-Maximum delay (30-300 seconds)
+4. Maximum delay (30-300 seconds)
 
-Website Management
+5. **Website Management**
 
-Add/remove blocked websites
+6. Add/remove blocked websites
 
-Individual delay settings per site
+7. Individual delay settings per site
 
-URL validation and management
+8. URL validation and management
 
-Content Preferences
+9. **Content Preferences**
 
-Toggle reflection prompts
+10. Toggle reflection prompts
 
-Toggle inspirational content
+11. Toggle inspirational content
 
-Toggle goal reminders
+12, Toggle goal reminders
 
-Goal Management
+13. **Goal Management**
 
-Full goal CRUD operations
+14. Full goal CRUD operations
 
-Progress tracking interface
+15. Progress tracking interface
 
-Category management
+16. Category management
 
-Progress Dashboard
+17. **Progress Dashboard**
 
-Visual progress analytics
+18. Visual progress analytics
 
-Goal status overview
+19. Goal status overview
 
-Performance metrics
+20. Performance metrics
 
-Points Dashboard
+21. **Points Dashboard**
 
-Comprehensive points analytics
+22. Comprehensive points analytics
 
-Performance tracking
+23. Performance tracking
 
-Point system explanations
+24. Point system explanations
 
-🎨 User Interface Features
+## 🎨 User Interface Features
 
-Landing Page
+### Landing Page
 
-Animated particle system with connecting lines
+- Animated particle system with connecting lines
 
-Responsive particle count based on screen size
+- Responsive particle count based on screen size
 
-Smooth animations with canvas-based rendering
+- Smooth animations with canvas-based rendering
 
-Minimalist design with single "CONTINUE" button
+- Minimalist design with single "CONTINUE" button
 
-Options Page
+### Options Page
 
-Dual-path navigation: Form access or main system
+- Dual-path navigation: Form access or main system
 
-Social sharing integration: WhatsApp, Twitter, LinkedIn, Email
+- Social sharing integration: WhatsApp, Twitter, LinkedIn, Email
 
-Copy-to-clipboard functionality
+- Copy-to-clipboard functionality
 
-Gradient background design
+- Gradient background design
 
-Challenge Interfaces
+### Challenge Interfaces
 
-Consistent design language across all challenges
+- Consistent design language across all challenges
 
-Real-time progress indicators
+- Real-time progress indicators
 
-Timer displays with color-coded urgency
+- Timer displays with color-coded urgency
 
-Celebration animations for achievements
+- Celebration animations for achievements
 
-Responsive layouts for all screen sizes
+- Responsive layouts for all screen sizes
 
-💾 Data Persistence
+## 💾 Data Persistence
 
-localStorage Integration
+### LocalStorage Integration
 
-Daily points tracking with date-based keys
+- Daily points tracking with date-based keys
 
-Goal progress persistence
+- Goal progress persistence
 
-Settings preservation
+- Settings preservation
 
-Cross-session continuity
+- Cross-session continuity
 
-Real-time Updates
+### Real-time Updates
 
-Live point calculations
+- Live point calculations
 
-Immediate progress updates
+- Immediate progress updates
 
-Persistent state management
+- Persistent state management
 
-🔄 User Flow Management
+## 🔄 User Flow Management
 
-State Management
+### State Management
 
-Multi-level navigation: Landing → Options → Main System
+- Multi-level navigation: Landing → Options → Main System
 
-Challenge state tracking
+- Challenge state tracking
 
-Modal overlay system for challenges
+- Modal overlay system for challenges
 
-Breadcrumb navigation
+- Breadcrumb navigation
 
-Challenge Integration
+### Challenge Integration
 
-Independent challenge access
+- Independent challenge access
 
-Writing challenge as gateway to website access
+- Writing challenge as gateway to website access
 
-Point-earning challenges for motivation
+- Point-earning challenges for motivation
 
-Seamless transitions between challenges
+- Seamless transitions between challenges
 
-📱 Responsive Design
+## 📱 Responsive Design
 
-Mobile-First Approach
+### Mobile-First Approach
 
-Flexible layouts adapting to screen sizes
+- Flexible layouts adapting to screen sizes
 
-Touch-friendly interfaces
+- Touch-friendly interfaces
 
-Optimized particle systems for performance
+- Optimized particle systems for performance
 
-Responsive typography and spacing
+- Responsive typography and spacing
 
-🎯 Behavioral Psychology Features
+## 🎯 Behavioral Psychology Features
 
-Friction Creation
+### Friction Creation
 
-Intentional delays before website access
+- Intentional delays before website access
 
-Cognitive engagement requirements
+- Cognitive engagement requirements
 
-Mindfulness prompts during waiting periods
+- Mindfulness prompts during waiting periods
 
-Positive Reinforcement
+### Positive Reinforcement
 
-Point-based reward system
+- Point-based reward system
 
-Achievement celebrations
+- Achievement celebrations
 
-Progress visualization
+- Progress visualization
 
-Goal completion tracking
+- Goal completion tracking
 
-Habit Formation
+### Habit Formation
 
-Daily point tracking encouraging consistency
+- Daily point tracking encouraging consistency
 
-Streak potential through regular engagement
+- Streak potential through regular engagement
 
-Multiple challenge types preventing boredom
+- Multiple challenge types preventing boredom
 
-Gradual difficulty progression
+- Gradual difficulty progression
 
-️ Technical Implementation
+---
 
-Frontend Framework
+️ ## Technical Implementation
 
-Next.js 15 with App Router
+### Frontend Framework
 
-TypeScript for type safety
+1. **Next.js** 15 with App Router
 
-Tailwind CSS for styling
+2. **TypeScript** for type safety
 
-React hooks for state management
+3. **Tailwind CSS** for styling
 
-Key Technologies
+4. **React hooks** for state management
 
-Canvas API for particle animations
+--- 
 
-localStorage for data persistence
+## Key Technologies
 
-YouTube embed API for video challenges
+1. **Canvas API** for particle animations
 
-Responsive design with CSS Grid/Flexbox
+2. **localStorage** for data persistence
 
-Performance Optimizations
+3. **YouTube embed API** for video challenges
 
-Lazy loading of challenge components
+4. **Responsive design** with CSS Grid/Flexbox
 
-Efficient particle rendering
+### Performance Optimizations
 
-Optimized re-renders with React best practices
+- **Lazy loading** of challenge components
 
-Memory management for timers and intervals
+- **Efficient particle rendering**
 
-Target Use Cases
+- **Optimized re-renders** with React best practices
 
-Digital Wellness: Reducing mindless scrolling and social media addiction
+- **Memory management** for timers and intervals
 
-Productivity Enhancement: Creating friction before accessing distracting websites
+## Target Use Cases
 
-Habit Building: Establishing healthier digital consumption patterns
+1. Digital Wellness: Reducing mindless scrolling and social media addiction
 
-Mindfulness Practice: Encouraging intentional technology use
+2. Productivity Enhancement: Creating friction before accessing distracting websites
 
-Goal Achievement: Tracking and motivating progress toward personal objectives
+3. Habit Building: Establishing healthier digital consumption patterns
 
-Educational Engagement: Learning about dopamine and digital wellness
+4. Mindfulness Practice: Encouraging intentional technology use
 
-Wellness Breaks: Incorporating physical and mental health exercises into screen time
+5. Goal Achievement: Tracking and motivating progress toward personal objectives
 
-Unique Value Proposition
+6. Educational Engagement: Learning about dopamine and digital wellness
+
+7. Wellness Breaks: Incorporating physical and mental health exercises into screen time
+
+## Unique Value Proposition
 
 The Dopamine Delay System stands out by combining:
 
-Scientific backing (dopamine research and behavioral psychology)
+- Scientific backing (dopamine research and behavioral psychology)
 
-Gamification elements (points, challenges, progress tracking)
+- Gamification elements (points, challenges, progress tracking)
 
-Comprehensive wellness approach (mental, physical, educational)
+- Comprehensive wellness approach (mental, physical, educational)
 
-Customizable experience (goal setting, website management)
+- Customizable experience (goal setting, website management)
 
-Beautiful user interface (animations, responsive design)
+- Beautiful user interface (animations, responsive design)
 
-Data-driven insights (analytics, progress tracking)
+- Data-driven insights (analytics, progress tracking)
 
-This creates a holistic digital wellness solution that doesn't just block websites, but actively promotes healthier habits and personal growth through engaging, meaningful activities.
+  ---
+
+*This creates a holistic digital wellness solution that doesn't just block websites, but actively promotes healthier habits and personal growth through engaging, meaningful activities.*
