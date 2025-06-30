@@ -377,7 +377,7 @@ The app is built around the concept of "dopamine delay" - instead of immediately
 
 - **Memory management** for timers and intervals
 
-## Target Use Cases
+## 🎯 Target Use Cases
 
 1. Digital Wellness: Reducing mindless scrolling and social media addiction
 
@@ -393,7 +393,7 @@ The app is built around the concept of "dopamine delay" - instead of immediately
 
 7. Wellness Breaks: Incorporating physical and mental health exercises into screen time
 
-## Unique Value Proposition
+## 🦸‍♂️ Unique Value Proposition
 
 The Dopamine Delay System stands out by combining:
 
