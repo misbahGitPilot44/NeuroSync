@@ -6,7 +6,7 @@ This Dopamine Delay System is a comprehensive digital wellness application desig
 
 The app is built around the concept of "dopamine delay" - instead of immediately accessing potentially addictive websites, users must complete meaningful challenges that promote mindfulness, learning, and well-being. This creates a friction barrier that encourages more intentional internet usage.
 
-️ Application Architecture
+️ ### Application Architecture
 
 Multi-Stage User Journey:
 
@@ -115,14 +115,13 @@ Multi-Stage User Journey:
 
 - Auto-advance between riddles
 
----
+- Performance Tracking
 
-## Performance Tracking
 --- 
 
-### 📊 Points & Analytics System
+## 📊 Points & Analytics System
 
-#### Points Dashboard:
+### Points Dashboard:
 
 - Daily point tracking with localStorage persistence
 
@@ -130,11 +129,11 @@ Multi-Stage User Journey:
 
 - Performance levels: Excellent (6+), Good (4-5), Fair (2-3), Needs Improvement (0-1)
 
-**Statistics**: Total points, weekly average, active days
+- **Statistics**: Total points, weekly average, active days
 
 - Maximum daily points: 46 points possible
 
-#### Point Sources:
+### Point Sources:
 
 - Motivation videos: 6 points max (3 videos × 2 points)
 
@@ -144,29 +143,31 @@ Multi-Stage User Journey:
 
 - Brain teasers: 20 points max (10 riddles × 2 points)
 
-#### 🎯 Goal Management System
+## 🎯 Goal Management System
 
-Goal Creation & Tracking
+- Goal Creation & Tracking
 
-Categories: Personal, Career, Health, Relationships, Learning
+- **Categories**: Personal, Career, Health, Relationships, Learning
 
-Progress tracking: 0-100% with visual progress bars
+- Progress tracking: 0-100% with visual progress bars
 
-Optional features: Target numbers, units, deadlines
+- Optional features: Target numbers, units, deadlines
 
-Quick updates: ±5% and ±10% buttons
+- Quick updates: ±5% and ±10% buttons
 
-Goal visualization: Color-coded progress indicators
+- Goal visualization: Color-coded progress indicators
 
-Progress Dashboard
+---
 
-Goal status overview: Total, completed, in-progress, not started
+#### Progress Dashboard
 
-Overdue goal alerts with deadline tracking
+- Goal status overview: Total, completed, in-progress, not started
 
-Average progress calculation
+- Overdue goal alerts with deadline tracking
 
-Categorized goal display
+- Average progress calculation
+
+- Categorized goal display
 
 ⚙️ Settings & Configuration
 
