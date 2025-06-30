@@ -10,7 +10,7 @@ The app is built around the concept of "dopamine delay" - instead of immediately
 
 ## **Application Architecture**
 
-Multi-Stage User Journey:
+### Multi-Stage User Journey:
 
 **Landing Page - Animated particle background with minimalist design**
 
