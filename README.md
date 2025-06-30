@@ -37,6 +37,8 @@ Multi-Stage User Journey:
 
 - Must complete all 5 to gain site access
 
+---
+
 #### 😁 2. Motivation Challenge
 
 - Purpose: Boost motivation and earn points
@@ -54,6 +56,8 @@ Multi-Stage User Journey:
 - Points popup celebrations
 
 - Video completion verification
+
+---
 
 #### 😊 3. Wellness Challenge
 
@@ -73,6 +77,8 @@ Multi-Stage User Journey:
 
 - Skip options (but reduces points)
 
+---
+
 #### 📚 4. Knowledge Quiz
 
 - Purpose: Educational content about dopamine and digital wellness
@@ -90,6 +96,8 @@ Multi-Stage User Journey:
 - Humorous memes after each answer
 
 - Progress dots showing performance
+
+---
 
 #### 🧠 5. Brain Teaser Challenge
 
