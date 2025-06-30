@@ -117,10 +117,10 @@ Multi-Stage User Journey:
 
 ---
 
-Performance tracking
+Performance Tracking
 --- 
 
-📊 Points & Analytics System
+## 📊 Points & Analytics System
 
 Points Dashboard
 
