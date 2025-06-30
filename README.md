@@ -27,7 +27,7 @@ Multi-Stage User Journey:
 
 - Time Limit: 60 seconds per question
 
-Mechanics: 
+* Mechanics: 
 
 - Random prompts from a curated list
 
