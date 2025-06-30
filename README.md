@@ -108,6 +108,7 @@ Detailed explanations after each answer
 Auto-advance between riddles
 
 Performance tracking
+--- 
 
 📊 Points & Analytics System
 
