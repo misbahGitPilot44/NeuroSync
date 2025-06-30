@@ -6,7 +6,7 @@ This Dopamine Delay System is a comprehensive digital wellness application desig
 
 The app is built around the concept of "dopamine delay" - instead of immediately accessing potentially addictive websites, users must complete meaningful challenges that promote mindfulness, learning, and well-being. This creates a friction barrier that encourages more intentional internet usage.
 
-️ **Application Architecture
+️ Application Architecture
 
 Multi-Stage User Journey:
 
@@ -17,7 +17,7 @@ Multi-Stage User Journey:
 **Main System - Core dopamine delay functionality with multiple challenges**
 
 ## Complete Feature Breakdown
-🎮 Challenge System (5 Different Challenges)
+### 🎮 Challenge System (5 Different Challenges)
 
 1. Writing Challenge (Gateway Challenge)
 
