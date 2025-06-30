@@ -19,7 +19,7 @@ Multi-Stage User Journey:
 ## Complete Feature Breakdown
 ### 🎮 Challenge System (5 Different Challenges)
 
-1. Writing Challenge (Gateway Challenge)
+#### 1. Writing Challenge (Gateway Challenge)
 
 Purpose: Cognitive engagement test to access blocked websites
 
